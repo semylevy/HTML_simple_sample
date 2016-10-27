@@ -1,0 +1,39 @@
+body {
+  border: 2px dashed green;
+}
+
+header {
+  border: 2px dashed blue;
+}
+
+header h1 {
+  border: 2px dashed purple;
+}
+
+nav {
+  border: 2px dashed orange;
+}
+
+nav ul {
+  border: 2px dashed black;
+}
+
+footer li {
+  display: inline;
+}
+
+main {
+  border: 2px dashed gray;
+}
+
+main article {
+  border: 2px dashed yellow;
+}
+
+footer {
+  border: 2px dashed brown;
+}
+
+footer ul {
+  border: 2px dashed pink;
+}
